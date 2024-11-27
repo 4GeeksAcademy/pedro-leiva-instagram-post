@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+.post{
+    background-color: white;
+    border: green solid 2px;
+    width: 300px;
+    height: 500px;
+}
+img{
+    width: 100%;
+    height: 60%;
+    
+}
+#saveIcon{
+    margin-left: 220px;
+}
+.text1{
+size: 2px;
+}
+#menuIcon{
+    margin-left: 270px;
+
+}
