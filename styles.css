@@ -3,7 +3,6 @@ body{
 }
 .post{
     background-color: white;
-    border: green solid 2px;
     width: 300px;
     height: 500px;
 }
@@ -13,7 +12,7 @@ img{
     
 }
 #saveIcon{
-    margin-left: 220px;
+    margin-left: 227px;
 }
 .text1{
 size: 2px;
